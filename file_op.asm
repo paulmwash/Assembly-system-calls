@@ -18,7 +18,7 @@ syscall
 cmp rax,0
 jl FileError
 
-mov rax,[rax]
+mov rdx,[rax]
 
 
 mov rax,0
