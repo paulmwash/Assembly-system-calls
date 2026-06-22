@@ -7,8 +7,6 @@ Stack operation is implemented using pop and push
 # NASM instructions
 nasm -f elf64 dwarf -g -F file.asm -o file.o to assemble
 ld file -o file -o to link it
-# Assembly instructions explained
-
 
 # Updating....
 I will update in the future
