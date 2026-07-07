@@ -13,7 +13,7 @@ ld file -o file -o to link it
 # Executing the program
 ./file
 
-#Debugging 
+# Debugging 
 Use gdb : gdb ./file
 
 # Updating....
