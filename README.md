@@ -8,7 +8,7 @@ mov for move register to register ,memory to register
 syscall it handles the kernel to do operation
 
 # NASM instructions
-nasm -f elf64 dwarf -g -F file.asm -o file.o to assemble
+nasm -f elf64 dwarf -g -F file.asm -o file.o 
 ld file -o file -o to link it
 # Executing the program
 ./file
