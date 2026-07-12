@@ -16,5 +16,8 @@ ld file -o file -o to link it
 # Debugging 
 Use gdb : gdb ./file
 
+# Disassembling machine code to human readable
+objdump -d file 
+
 # Updating....
 I will update in the future
