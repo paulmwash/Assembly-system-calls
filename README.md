@@ -21,4 +21,4 @@ Use gdb : gdb ./file
 objdump -d file 
 
 # Updating....
-I will update in the future
+I will update in the soon
